@@ -1,2 +1,1 @@
-# data-analysis
-Data Analysis Projects
+'Data analysis projects developed in Dataquest course' 
